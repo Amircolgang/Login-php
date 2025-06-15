@@ -3,4 +3,5 @@
     <input type="text" placeholder="username">
     <input type="text" placeholder="email">
     <input type="text" placeholder="password">
+    <input type="submit">
 </form>

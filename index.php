@@ -1,4 +1,4 @@
 <?php
+    var_dump($_SERVER[]) 
 
-    echo "Hi PHP"
 ?>
