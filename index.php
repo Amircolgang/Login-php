@@ -3,8 +3,8 @@
         if($_POST["email"] == "admin" && $_POST["pass"] == "123456"){
             //
         } else {
-            header("Location : login.php")
-        }
-    }
+            header("Location : login.php");
+        } ;
+    };
 
 ?>
